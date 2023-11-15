@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#ff0000"
+    }
+}
+
+// git config --local user.name "not-programming-hero"
+// git config --local user.email "nosiaakter1@gmail.com"
+
+//for remove file or folder
+// first filename put in .gitignore and
+// second terminal command [ git rm -rf --cached .vscode ]
